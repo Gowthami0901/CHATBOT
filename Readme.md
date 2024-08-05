@@ -504,5 +504,4 @@ Creating a free WhatsApp chatbot involves using free trials and free tiers offer
 
 https://docs.rapidbott.com/help-center/platform/whatsapp-channel/connect-with-whatsapp-cloud-api
 
-
 You can use this link to access the detailed guide on connecting with the WhatsApp Cloud API.
